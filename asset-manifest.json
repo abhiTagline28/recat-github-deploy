@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/recat-github-deploy/static/css/main.073c9b0a.css",
+    "main.js": "/recat-github-deploy/static/js/main.8b323fb8.js",
+    "static/js/787.7b63f85e.chunk.js": "/recat-github-deploy/static/js/787.7b63f85e.chunk.js",
+    "static/media/logo.svg": "/recat-github-deploy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/recat-github-deploy/index.html",
+    "main.073c9b0a.css.map": "/recat-github-deploy/static/css/main.073c9b0a.css.map",
+    "main.8b323fb8.js.map": "/recat-github-deploy/static/js/main.8b323fb8.js.map",
+    "787.7b63f85e.chunk.js.map": "/recat-github-deploy/static/js/787.7b63f85e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8b323fb8.js"
+  ]
+}
